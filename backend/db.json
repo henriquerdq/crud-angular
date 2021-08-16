@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta",
+      "price": 5.98
+    },
+    {
+      "id": 2,
+      "name": "notebook",
+      "price": 51.98
+    },
+    {
+      "name": "arroz",
+      "price": "44.00",
+      "id": 4
+    },
+    {
+      "name": "panela",
+      "price": 123.55,
+      "id": 5
+    },
+    {
+      "name": "carne",
+      "price": "112.99",
+      "id": 6
+    },
+    {
+      "name": "borracha",
+      "price": "1.6",
+      "id": 7
+    },
+    {
+      "name": "sadsad",
+      "price": "022",
+      "id": 8
+    }
+  ]
+}
